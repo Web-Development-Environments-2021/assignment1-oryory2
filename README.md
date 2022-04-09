@@ -8,10 +8,10 @@ ID: 316593557
 Name: Or Izhaky
 
 This site is about my grandma - Yosefa Cohen.
-The site conatins:
-	- A short background about Yosefa life.
-	- Yosefa photos from the past.
-	- Yosefa preferred song.
-	- Option to Like & Share a Facebook page ("Hamppy Hamster").
-  - Option to scan a QR - code that leading to my site.
-	- Option to contact me via E-mail (with option to add Emojis).
+My site conatins:
+	1. A short background about Yosefa life.
+	2. Yosefa photos from the past.
+	3. Yosefa preferred song.
+	4. Option to Like & Share a Facebook page ("Hamppy Hamster").
+	5. Option to scan a QR - code that leading to my site.
+	6. Option to contact me via E-mail (with option to add Emojis).
